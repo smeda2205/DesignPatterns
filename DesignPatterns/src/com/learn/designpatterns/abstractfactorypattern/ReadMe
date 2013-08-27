@@ -1,0 +1,5 @@
+1. It works around a super-factory which creates other factories.
+2. This factory is also called as Factory of factories.
+3. In Abstract factory pattern, an interface is responsible for creating a factory of related objects, without explicitely
+	specifying their classes.
+4. Each generated factory can give objects as per the factory pattern.
